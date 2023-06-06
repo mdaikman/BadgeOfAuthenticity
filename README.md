@@ -1,9 +1,9 @@
 # BadgeOfAuthenticity
-A prototype for a new kind of convention badge
+A prototype concept for a new kind of convention badge to enable sharing digital art physically.
 
 This is the base CircuitPython code for the prototype.
-More information on the project can be found here:
-https://onlineacademiccommunity.uvic.ca/donovanaikman/
+A video demo of the prototype can be seen here: https://youtu.be/gqYVhdq-BZc 
+A breakdown is in the PDF.
 
 To build the prototype yourself you will only need the following things:
 
